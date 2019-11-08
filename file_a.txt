@@ -1,2 +1,3 @@
 to jest inny kod
 to jest test
+moja linia jest inna
