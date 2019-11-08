@@ -1,4 +1,6 @@
 to jest inny kod
 to jest test
+moja linia jest inna
 kolejna linia kodu
+ciezko tak pracowac
 i tak to beda ciagle konfilty
