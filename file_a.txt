@@ -2,5 +2,6 @@ to jest inny kod
 to jest test
 moja linia jest inna
 kolejna linia kodu
+czy wstawi te linie pomiedzy ?
 ciezko tak pracowac
 i tak to beda ciagle konfilty
